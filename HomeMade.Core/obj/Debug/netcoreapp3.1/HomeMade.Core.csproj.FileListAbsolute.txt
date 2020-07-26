@@ -1,0 +1,9 @@
+C:\Users\Owner\source\repos\HomeMadeTest\HomeMade.Core\bin\Debug\netcoreapp3.1\HomeMade.Core.deps.json
+C:\Users\Owner\source\repos\HomeMadeTest\HomeMade.Core\bin\Debug\netcoreapp3.1\HomeMade.Core.dll
+C:\Users\Owner\source\repos\HomeMadeTest\HomeMade.Core\bin\Debug\netcoreapp3.1\HomeMade.Core.pdb
+C:\Users\Owner\source\repos\HomeMadeTest\HomeMade.Core\obj\Debug\netcoreapp3.1\HomeMade.Core.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\HomeMadeTest\HomeMade.Core\obj\Debug\netcoreapp3.1\HomeMade.Core.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\HomeMadeTest\HomeMade.Core\obj\Debug\netcoreapp3.1\HomeMade.Core.AssemblyInfo.cs
+C:\Users\Owner\source\repos\HomeMadeTest\HomeMade.Core\obj\Debug\netcoreapp3.1\HomeMade.Core.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\HomeMadeTest\HomeMade.Core\obj\Debug\netcoreapp3.1\HomeMade.Core.dll
+C:\Users\Owner\source\repos\HomeMadeTest\HomeMade.Core\obj\Debug\netcoreapp3.1\HomeMade.Core.pdb
