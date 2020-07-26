@@ -31,7 +31,7 @@ namespace HomeMade.Infrastructure.Data
             return _dbContext.Recipes
                 //.Include(r => r.User)
                 //.Include(r => r.RecipeIngredients)
-                .Include(ri=>ri.Ingredients)
+                //.Include(ri=>ri.Ingredients)
                 .SingleOrDefault(r => r.Id == id);
         }
 
@@ -64,6 +64,13 @@ namespace HomeMade.Infrastructure.Data
             _dbContext.SaveChanges();
 
             return updatedRecipe;
+        }
+
+        public IEnumerable<Recipe> GetIngredientsForRecipe(int recipeId)
+        {
+            return _dbContext.Recipes
+                //.Include(r => r.Ingredients)
+                .ToList();
         }
     }
 }

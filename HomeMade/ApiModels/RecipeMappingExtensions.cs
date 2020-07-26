@@ -18,7 +18,7 @@ namespace HomeMade.ApiModels
                 RecipeClassification = recipe.RecipeClassification
                 //UserId = recipe.User.Id,
                 //User = recipe.User!=null?recipe.User.Name:null,
-                //Ingredients = recipe.RecipeIngredients?.Select(ri => ri.Ingredient).ToApiModels().ToList()
+                //Ingredients = recipe.Ingredients?.Select(ri => ri.Id).ToApiModels().ToList()
             };
         }
 

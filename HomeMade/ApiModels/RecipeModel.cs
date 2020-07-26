@@ -14,7 +14,7 @@ namespace HomeMade.ApiModels
 
         //public string User { get; set; } //added
         //public int UserId { get; set; } //added
-        public ICollection<IngredientModel> Ingredients { get; set; }
+        //public ICollection<IngredientModel> Ingredients { get; set; }
         //public int IngredientId { get; set; } //added
     }
 }

@@ -18,9 +18,9 @@ namespace HomeMade.ApiModels
                 IngredientQuantity = ingredient.IngredientQuantity,
                 IngredientUnit = ingredient.IngredientUnit,
                 IngredientEdibleYieldPercentage = ingredient.IngredientEdibleYieldPercentage,
-                RecipeId = ingredient.RecipeId,
-                Recipe = ingredient.Recipe != null
-                ? ingredient.Recipe.RecipeName + ", " + ingredient.Recipe.RecipeClassification : null
+                //RecipeId = ingredient.RecipeId,
+                //Recipe = ingredient.Recipe != null
+                //? ingredient.Recipe.RecipeName + ", " + ingredient.Recipe.RecipeClassification : null
                 
             };
         }
@@ -34,7 +34,7 @@ namespace HomeMade.ApiModels
                 IngredientQuantity = ingredientModel.IngredientQuantity,
                 IngredientUnit = ingredientModel.IngredientUnit,
                 IngredientEdibleYieldPercentage = ingredientModel.IngredientEdibleYieldPercentage,
-                RecipeId = ingredientModel.RecipeId
+                //RecipeId = ingredientModel.RecipeId
             };
         }
 

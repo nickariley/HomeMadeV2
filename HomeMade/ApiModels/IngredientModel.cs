@@ -13,7 +13,7 @@ namespace HomeMade.ApiModels
         public string IngredientUnit { get; set; }
         public float IngredientEdibleYieldPercentage { get; set; }
 
-        public int RecipeId { get; set; }
-        public string Recipe { get; set; }
+        //public int RecipeId { get; set; }
+        //public string Recipe { get; set; }
     }
 }

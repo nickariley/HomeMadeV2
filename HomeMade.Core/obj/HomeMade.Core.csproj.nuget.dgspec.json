@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\source\\repos\\HomeMadeTest\\HomeMade.Core\\HomeMade.Core.csproj": {}
+    "C:\\Users\\Owner\\source\\repos\\HomeMadeV2\\HomeMade.Core\\HomeMade.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\source\\repos\\HomeMadeTest\\HomeMade.Core\\HomeMade.Core.csproj": {
+    "C:\\Users\\Owner\\source\\repos\\HomeMadeV2\\HomeMade.Core\\HomeMade.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\HomeMadeTest\\HomeMade.Core\\HomeMade.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\HomeMadeV2\\HomeMade.Core\\HomeMade.Core.csproj",
         "projectName": "HomeMade.Core",
-        "projectPath": "C:\\Users\\Owner\\source\\repos\\HomeMadeTest\\HomeMade.Core\\HomeMade.Core.csproj",
+        "projectPath": "C:\\Users\\Owner\\source\\repos\\HomeMadeV2\\HomeMade.Core\\HomeMade.Core.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\source\\repos\\HomeMadeTest\\HomeMade.Core\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\source\\repos\\HomeMadeV2\\HomeMade.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",

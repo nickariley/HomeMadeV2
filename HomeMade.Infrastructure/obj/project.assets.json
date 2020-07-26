@@ -1172,11 +1172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\HomeMadeTest\\HomeMade.Infrastructure\\HomeMade.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\HomeMadeV2\\HomeMade.Infrastructure\\HomeMade.Infrastructure.csproj",
       "projectName": "HomeMade.Infrastructure",
-      "projectPath": "C:\\Users\\Owner\\source\\repos\\HomeMadeTest\\HomeMade.Infrastructure\\HomeMade.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Owner\\source\\repos\\HomeMadeV2\\HomeMade.Infrastructure\\HomeMade.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\source\\repos\\HomeMadeTest\\HomeMade.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Owner\\source\\repos\\HomeMadeV2\\HomeMade.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1192,8 +1192,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Owner\\source\\repos\\HomeMadeTest\\HomeMade.Core\\HomeMade.Core.csproj": {
-              "projectPath": "C:\\Users\\Owner\\source\\repos\\HomeMadeTest\\HomeMade.Core\\HomeMade.Core.csproj"
+            "C:\\Users\\Owner\\source\\repos\\HomeMadeV2\\HomeMade.Core\\HomeMade.Core.csproj": {
+              "projectPath": "C:\\Users\\Owner\\source\\repos\\HomeMadeV2\\HomeMade.Core\\HomeMade.Core.csproj"
             }
           }
         }

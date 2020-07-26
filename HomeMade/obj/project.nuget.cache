@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kJSVCoNLC7omB16hCkE63TJa/79t1hF20cmGZjitEEnMOkcbYpBlH2jB9EiS4Ljhn/j+iuLik+LHTEvIDUgM+A==",
+  "dgSpecHash": "jxk56u6cKiGHWsVhEr+xPHhkraJZsqQGDNmOCZpaEBbdyVwvCTvZUI6Wg2h4Z+BS8fr48rDgyuBr3A06xknTEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\source\\repos\\HomeMadeTest\\HomeMade\\HomeMade.csproj",
+  "projectFilePath": "C:\\Users\\Owner\\source\\repos\\HomeMadeV2\\HomeMade\\HomeMade.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

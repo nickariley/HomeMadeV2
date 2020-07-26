@@ -16,5 +16,7 @@ namespace HomeMade.Core.Services
         void Remove(Recipe recipe);
 
         IEnumerable<Recipe> GetAll(); // List? Collection? Benefits and Drawbacks?
+
+        IEnumerable<Recipe> GetIngredientsForRecipe(int id);
     }
 }

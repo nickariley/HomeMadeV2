@@ -10,5 +10,7 @@ namespace HomeMade.Core.Services
         IEnumerable<Recipe> GetAll();
         void Remove(Recipe recipe);
         Recipe Update(Recipe updatedRecipe);
+
+        IEnumerable<Recipe> GetIngredientsForRecipe(int id);
     }
 }

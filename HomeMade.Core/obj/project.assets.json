@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\Source\\Repos\\HomeMadeTest\\HomeMade.Core\\HomeMade.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\HomeMadeV2\\HomeMade.Core\\HomeMade.Core.csproj",
       "projectName": "HomeMade.Core",
-      "projectPath": "C:\\Users\\Owner\\Source\\Repos\\HomeMadeTest\\HomeMade.Core\\HomeMade.Core.csproj",
+      "projectPath": "C:\\Users\\Owner\\source\\repos\\HomeMadeV2\\HomeMade.Core\\HomeMade.Core.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\Source\\Repos\\HomeMadeTest\\HomeMade.Core\\obj\\",
+      "outputPath": "C:\\Users\\Owner\\source\\repos\\HomeMadeV2\\HomeMade.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",

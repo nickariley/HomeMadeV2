@@ -40,5 +40,10 @@ namespace HomeMade.Core.Services
         {
             return _recipeRepo.GetAll();
         }
+
+        public IEnumerable<Recipe> GetIngredientsForRecipe(int recipeId)
+        {
+            return _recipeRepo.GetIngredientsForRecipe(recipeId);
+        }
     }
 }

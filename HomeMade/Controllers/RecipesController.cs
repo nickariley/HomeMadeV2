@@ -34,10 +34,18 @@ namespace HomeMade.Controllers
         // GET api/<RecipesController>/5
         [HttpGet("{id}")]
         public IActionResult Get(int id)
+        
         {
             var recipe = _recipeService.Get(id);
             if (recipe == null) return NotFound();
             return Ok(recipe);
+        }
+
+        [HttpGet("/api/ingredients/{ingredientId}/recipes")]
+        public IActionResult GetIngredientsForRecipe(int ingredientId)
+        {
+            var recipeModels = _recipeService.GetIngredientsForRecipe(ingredientId).ToApiModels();
+            return Ok(recipeModels);
         }
 
         // POST api/<RecipesController>
